@@ -7,3 +7,5 @@ Differences:
 - More generic pushbuttons
 - Added programmer header
 - Added load switch (for testing purposes)
+
+![board view](https://raw.githubusercontent.com/martonmiklos/CH32X035-USB-PD-Tester/master/boardview.png "Board")
